@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Menu" android:id="@+id/foodMenu" android:icon="@drawable/ic_restaurant_menu_black_24dp"></item>
+    <item android:title="Orders" android:id="@+id/orders" android:icon="@drawable/ic_fiber_new_black_24dp"></item>
+
+    <item android:title="History" android:id="@+id/history" android:icon="@drawable/ic_history_black_24dp"></item>
+
+
+
+</menu>
